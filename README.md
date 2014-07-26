@@ -1,4 +1,3 @@
-将OC category等模板加入到Xcode 6中，用的时候请注意根据Xcode版本修改一下路径中Xcode的命名。 
 Add OC category templates to Xcode 6，pls modify PROJECT_TEMPLATES_PATH and FILE_TEMPLATES_PATH as your need.
 
 ```sh
