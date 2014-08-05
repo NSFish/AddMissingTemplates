@@ -3,8 +3,8 @@
 SAVEIFS=$IFS
 IFS=$(echo -en "\n\b")
 
-PROJECT_TEMPLATES_PATH="/Applications/Xcode6-Beta3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Templates/Project Templates/iOS/Application"
-FILE_TEMPLATES_PATH="/Applications/Xcode6-Beta3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Templates/File Templates/Source"
+PROJECT_TEMPLATES_PATH="/Applications/Xcode6-Beta4.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Templates/Project Templates/iOS/Application"
+FILE_TEMPLATES_PATH="/Applications/Xcode6-Beta4.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Templates/File Templates/Source"
 
 EMPTY_APPLICATION_PATH="$PWD/Empty Application.xctemplate"
 
