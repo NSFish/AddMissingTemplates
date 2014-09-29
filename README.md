@@ -6,8 +6,8 @@ Add OC category templates to Xcode 6，pls modify PROJECT_TEMPLATES_PATH and FIL
 SAVEIFS=$IFS
 IFS=$(echo -en "\n\b")
 
-PROJECT_TEMPLATES_PATH="/Applications/Xcode6-Beta3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Templates/Project Templates/iOS/Application"
-FILE_TEMPLATES_PATH="/Applications/Xcode6-Beta3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Templates/File Templates/Source"
+PROJECT_TEMPLATES_PATH="/Applications/Xcode6.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Templates/Project Templates/iOS/Application"
+FILE_TEMPLATES_PATH="/Applications/Xcode6.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Templates/File Templates/Source"
 
 EMPTY_APPLICATION_PATH="$PWD/Empty Application.xctemplate"
 
